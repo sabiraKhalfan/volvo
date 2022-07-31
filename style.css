@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+.links{
+    color:white;
+    text-decoration: none;
+}
+.main-container{
+    height: 35rem;
+}
+.links:hover{
+    color: white;
+}
+
+
+.header{
+    
+    background: url(https://www.volvo.com/content/dam/volvo-gateway/markets/volvo-gateway/banner-2400x720-new.jpg);
+}
+.career{
+    font-family: var(--ff-default);
+    color: #4d4e53;
+}
+
+
+
+.itemtext{
+    font-size: 2rem;
+    font-family: var(--ff-header);
+    font-weight: 700;
+}
+.img{
+    height: 100%;
+}
+.list{
+    background-color: black;
+
+
+}
+.orderedlist{
+    list-style:none;
+}
+html { overflow-x: hidden; }
+.img{
+    max-width: 100%;
+}
+.text{
+    bottom: 25px;
+    left: 40px;
+}
+   
+
+
+   
+
